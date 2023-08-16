@@ -9,7 +9,7 @@ I am originally from Orem UT and am currently attending BYU - Idaho working on m
 My little family consists of myself, my wife Violet, our baby Rudy, and dog Theodore. I enjoy skateboarding, weightlifting, and generally being active. (Funny that I also love staring at a screen programming... 🤷‍♂️) 
 
 ### My skills
-I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to an example repo. 
+I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to repos where I demonstrated them. 
 - [C++](https://github.com/john9francis/ConsoleLogin)
 - [C#](https://github.com/john9francis/cse210_hw)
 - [Geant4](https://github.com/john9francis/G4-Brems)
