@@ -4,6 +4,8 @@
 
 I am originally from Orem UT and am currently attending BYU - Idaho working on my Physics degree with a Mathematical emphasis. I have earned my Computer Programming Certificate from BYU and I thouroughly enjoy software engineering. I would say my three passions are: Physics, Programming, and Creativity. 
 
+![A picture of my family (excluding theodore)](IMG_2477.JPG)
+
 My little family consists of myself, my wife Violet, our baby Rudy, and dog Theodore. I enjoy skateboarding, weightlifting, and generally being active. (Funny that I also love staring at a screen programming... 🤷‍♂️) 
 
 ### References to useful stuff
