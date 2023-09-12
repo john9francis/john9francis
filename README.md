@@ -2,7 +2,7 @@
 
 ### About me
 
-I am an aspiring Medical Physicist, current software engineer, and hobby video game developer. 
+I am an aspiring Medical Physicist, current software engineer, and hobbyist video game developer. 
 - I specialize in Geant4, Root, and other types of C++ scientific computing.
 - Check out my game development organization, [OJ Games](https://github.com/OJGames).
 
