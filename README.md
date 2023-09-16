@@ -6,7 +6,9 @@ I am an aspiring Medical Physicist, current software engineer, and hobbyist vide
 - I specialize in Geant4, Root, and other types of C++ scientific computing.
 - Check out my game development organization, [OJ Games](https://github.com/OJGames).
 
+<!--
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=john9francis&layout=compact&theme=dark&exclude_repo=smb1-disasm)
+-->
 
 ### My skills
 I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to repos where I demonstrated them. 
