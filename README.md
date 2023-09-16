@@ -6,12 +6,13 @@ I am an aspiring Medical Physicist, current software engineer, and hobbyist vide
 - I specialize in Geant4, powerful C++ physics modeling toolkit
 - Check out my game development organization, [OJ Games](https://github.com/OJGames).
 
+### My skills
+
 <!--
 ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=john9francis&layout=compact&theme=dark&exclude_repo=smb1-disasm)
 -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,ts,js,nodejs,go,godot,docker)](https://skillicons.dev)
 
-### My skills
 I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to repos where I demonstrated them. 
 - [C++](https://github.com/john9francis/ConsoleLogin)
 - [C#](https://github.com/john9francis/RunnerGame)
