@@ -32,6 +32,7 @@ While developing my projects, I have stumbled upon some useful references that c
 - [Compiling TypeScript and WebPack](https://github.com/john9francis/simple-excaliburjs)
 - [Starting a Django webserver](https://github.com/john9francis/mydose)
 - [Commiting to a branch in GitHub](https://github.com/john9francis/G4-Brems/tree/release-v1.0.0)
+- [Skill icons](https://github.com/tandpfun/skill-icons#icons-list)
 
 <!--
 **john9francis/john9francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
