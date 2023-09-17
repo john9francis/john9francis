@@ -26,6 +26,7 @@ I am a balanced programmer, with many front-end and back-end skills. Here are a 
 
 While developing my projects, I have stumbled upon some useful references that can be helpful for a variety of situations. Thinks like, "How to create a python virtual environment," or "How to configure a GitHub pages website." Usually I will add instructions to the README of the first repository in which I learn the specific thing. I will link here any useful references for easy access, either in the form of one of my repos or in a link to an external website.
 
+- [Opening a project inside a docker container in vscode](https://github.com/john9francis/simple-bun)
 - [Semantic versioning guide](https://semver.org/)
 - [GitHub pages themes (video)](https://www.youtube.com/watch?v=cPet2THrEWg&t=423s) and [GitHub pages config file](https://github.com/john9francis/radiation-modeling)
 - [Setting up python venv](https://github.com/john9francis/gradschool-database)
