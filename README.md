@@ -15,7 +15,7 @@ I am an aspiring Medical Physicist, current software engineer, and hobbyist vide
 
 I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to repos where I demonstrated them. 
 - [C++](https://github.com/john9francis/ConsoleLogin)
-- [Rust](https://github.com/john9francis/math-app)
+- [Rust](https://github.com/john9francis/math-app-rust)
 - [C#](https://github.com/john9francis/RunnerGame)
 - [Geant4](https://github.com/john9francis/G4-Brems)
 - [Sqlite](https://github.com/john9francis/gradschool-database)
