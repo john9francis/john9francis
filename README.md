@@ -4,7 +4,7 @@
 
 I am an aspiring Medical Physicist, current software engineer, and hobbyist video game developer. 
 - I specialize in Geant4, powerful C++ physics modeling toolkit
-- Check out my game development organization, [OJ Games](https://github.com/OJGames).
+- Check out my game development on [itch.io](https://john9francis.itch.io/)
 
 ### My skills
 <!--
