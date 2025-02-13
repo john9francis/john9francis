@@ -12,9 +12,9 @@ I pride myself in creating cross-platform, full-stack applications. I am versed 
 [![My Skills](https://skillicons.dev/icons?i=flutter,deno,sqlite,nginx,docker)](https://skillicons.dev)
 
 - **[Flutter](https://flutter.dev)** My framework of choice for creating GUIs that can be compiled for windows, macOS, linux, web, android and IOS. Note: If I am creating a pure web app, I prefer to use vanilla HTML, Javascript, and CSS because I find flutter to be slow to load when compiled for web.
-- **[Deno](https://deno.com/)** When creating a REST API, I go straight to Deno. Deno has (almost) everything I value for a https server: easy to set up, cross-platform, simple. It's not too performant compared to Rust or Go, but it's just so easy, quick, and reliable.
+- **[Deno](https://deno.com/)** When creating a REST API, I go straight to Deno. Deno has (almost) everything I value for an https server: easy to set up, cross-platform, simple. It's not too performant compared to Rust or Go, but it's just so easy, quick, and reliable.
 - **[SQLite](https://www.sqlite.org/)** I use SQLite for embedded and server databases. SQLite is handy because it's flexible and lightweight. I like including it in my server's dockerfile, so I don't have to spin up a separate service for something like postgres or redis.
-- **[NGINX](https://nginx.org/)** NGINX is my bouncer whenever I create a server for production. I like it because it's easy to set up HTTPS support using certbot, and it adds some security features I don't have to think about.
+- **[NGINX](https://nginx.org/)** NGINX is my bouncer whenever I create a server for production. I like it because it's easy to set up https support using certbot, and it adds some security features I don't have to think about.
 - **[Docker](https://www.docker.com/)** I wrap up almost all projects in dockerfiles. This ensures predictible builds on any machine, and easy deployment to any context. Docker ensures I can feed my desire for cross platform predictable software.
 
 
