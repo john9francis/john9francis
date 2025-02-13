@@ -3,7 +3,7 @@
 ### About me
 
 I am an aspiring Medical Physicist, current software engineer, and hobbyist video game developer. 
-- I specialize in Geant4, powerful C++ physics modeling toolkit
+- I specialize in [Geant4](https://geant4.web.cern.ch/), powerful C++ physics modeling toolkit
 - Check out my game development on [itch.io](https://john9francis.itch.io/)
 
 ### My Stack
