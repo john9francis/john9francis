@@ -6,22 +6,18 @@ I am an aspiring Medical Physicist, current software engineer, and hobbyist vide
 - I specialize in Geant4, powerful C++ physics modeling toolkit
 - Check out my game development on [itch.io](https://john9francis.itch.io/)
 
-### My skills
-<!--
-![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=john9francis&layout=compact&theme=dark&exclude_repo=smb1-disasm)
--->
+### My Stack
+I pride myself in creating cross-platform, full-stack applications. I am versed in several programming languages and architectures, with my favorite full-stack being the following:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,dart,flutter,sqlite,py,ts,js,cs,godot,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,deno,sqlite,nginx,docker)](https://skillicons.dev)
 
-I am a balanced programmer, with many front-end and back-end skills. Here are a list of skills linked to repos where I demonstrated them. 
-- [C++](https://github.com/john9francis/ConsoleLogin)
-- [Rust](https://github.com/john9francis/math-app-rust)
-- [C#](https://github.com/john9francis/RunnerGame)
-- [Geant4](https://github.com/john9francis/G4-Brems)
-- [Sqlite](https://github.com/john9francis/gradschool-database)
-- [Python](https://github.com/john9francis/sockets-network)
-- [Django](https://github.com/john9francis/mydose)
-- [TypeScript](https://github.com/john9francis/simple-excaliburjs)
+- **[Flutter](https://flutter.dev)** My framework of choice for creating GUIs that can be compiled for windows, macOS, linux, web, android and IOS. Note: If I am creating a pure web app, I prefer to use vanilla HTML, Javascript, and CSS because I find flutter to be slow to load when compiled for web.
+- **[Deno](https://deno.com/)** When creating a REST API, I go straight to Deno. Deno has (almost) everything I value for a https server: easy to set up, cross-platform, simple. It's not too performant compared to Rust or Go, but it's just so easy, quick, and reliable.
+- **[SQLite](https://www.sqlite.org/)** I use SQLite for embedded and server databases. SQLite is handy because it's flexible and lightweight. I like including it in my server's dockerfile, so I don't have to spin up a separate service for something like postgres or redis.
+- **[NGINX](https://nginx.org/)** NGINX is my bouncer whenever I create a server for production. I like it because it's easy to set up HTTPS support using certbot, and it adds some security features I don't have to think about.
+- **[Docker](https://www.docker.com/)** I wrap up almost all projects in dockerfiles. This ensures predictible builds on any machine, and easy deployment to any context. Docker ensures I can feed my desire for cross platform predictable software.
+
+
 <!--
 **john9francis/john9francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
