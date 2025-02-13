@@ -15,7 +15,7 @@ I pride myself in creating cross-platform, full-stack applications. I am versed 
 - **[Deno](https://deno.com/)** When creating a REST API, I go straight to Deno. Deno has (almost) everything I value for an https server: easy to set up, cross-platform, simple. It's not too performant compared to Rust or Go, but it's just so easy, quick, and reliable.
 - **[SQLite](https://www.sqlite.org/)** I use SQLite for embedded and server databases. SQLite is handy because it's flexible and lightweight. I like including it in my server's dockerfile, so I don't have to spin up a separate service for something like postgres or redis.
 - **[NGINX](https://nginx.org/)** NGINX is my bouncer whenever I create a server for production. I like it because it's easy to set up https support using certbot, and it adds some security features I don't have to think about.
-- **[Docker](https://www.docker.com/)** I wrap up almost all projects in dockerfiles. This ensures predictible builds on any machine, and easy deployment to any context. Docker ensures I can feed my desire for cross platform predictable software.
+- **[Docker](https://www.docker.com/)** I wrap up almost all projects in dockerfiles. This ensures predictible builds on any machine, and easy deployment to any context. Docker caters perfectly to my priority of creating cross-platform robust software.
 
 
 <!--
