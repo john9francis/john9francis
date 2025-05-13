@@ -6,6 +6,9 @@ I am an aspiring Medical Physicist, current software engineer, and hobbyist vide
 - I specialize in [Geant4](https://geant4.web.cern.ch/), powerful C++ physics modeling toolkit
 - Check out my game development on [itch.io](https://john9francis.itch.io/)
 
+## Language stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john9francis&exclude_repo=cse210_hw)
+
 ### My Stack
 I pride myself in creating cross-platform, full-stack applications. I am versed in several programming languages and architectures, with my favorite full-stack being the following:
 
